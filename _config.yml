@@ -1,6 +1,7 @@
 theme: jekyll-theme-slate
 title: Harnessing the Conditioning Sensorium for Improved Image Translation
-description: >
-  Cooper Nederhood<sup>1</sup>, Nick Kolkin<sup>2</sup>, Deqing Fu<sup>1</sup>, Jason Salavon<sup>1</sup>
-  <sup>1</sup> University of Chicago, <sup>2</sup> Toyota Technological Institute at Chicago
+description: 
+- |
+  Cooper Nederhood^1^, Nick Kolkin^2^, Deqing Fu^1^, Jason Salavon^1^
+  ^1^ University of Chicago, ^2^ Toyota Technological Institute at Chicago
 project_title.font-size: 24px
